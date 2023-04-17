@@ -40,13 +40,18 @@
     <td align="center"><a href="https://github.com/jiwonmik"><img src="https://avatars.githubusercontent.com/jiwonmik" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/sowish23"><img src="https://avatars.githubusercontent.com/sowish23" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/juni5184"><img src="https://avatars.githubusercontent.com/juni5184" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/LB-Brandon"><img src="https://avatars.githubusercontent.com/LB-Brandon" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/Dsanj97"><img src="https://avatars.githubusercontent.com/Dsanj97" width="130px;" alt=""></a></td>
+    
    
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/kimhayeon00"><b>hayeonkim</b></a></td>
     <td align="center"><a href="https://github.com/jiwonmik"><b>jiwonmik</b></a></td>
     <td align="center"><a href="https://github.com/sowish23"><b>sowish23</b></a></td>
-    <td align="center"><a href="https://github.com/sowish23"><b>juni5184</b></a></td>
+    <td align="center"><a href="https://github.com/juni5184"><b>juni5184</b></a></td>
+    <td align="center"><a href="https://github.com/LB-Brandon"><b>LB-Brandon</b></a></td>
+    <td align="center"><a href="https://github.com/Dsanj97"><b>Dsanj97</b></a></td>
     
   </tr>
   
