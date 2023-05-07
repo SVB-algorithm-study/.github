@@ -41,6 +41,8 @@
     <td align="center"><a href="https://github.com/sowish23"><img src="https://avatars.githubusercontent.com/sowish23" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/juni5184"><img src="https://avatars.githubusercontent.com/juni5184" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/lilble"><img src="https://avatars.githubusercontent.com/lilble" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/holoho"><img src="https://avatars.githubusercontent.com/holoho" width="130px;" alt=""></a></td>
+    
     
   </tr>
   <tr>
@@ -49,6 +51,8 @@
     <td align="center"><a href="https://github.com/sowish23"><b>sowish23</b></a></td>
     <td align="center"><a href="https://github.com/juni5184"><b>juni5184</b></a></td>
     <td align="center"><a href="https://github.com/lilble"><b>lilble</b></a></td>
+    <td align="center"><a href="https://github.com/lilble"><b>holoho</b></a></td>
+    
     
    
     
@@ -60,6 +64,8 @@
     <td align="center"><a href="https://github.com/Tril-Lion-Air"><img src="https://avatars.githubusercontent.com/Tril-Lion-Air" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/suin524"><img src="https://avatars.githubusercontent.com/suin524" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/letzgorats"><img src="https://avatars.githubusercontent.com/letzgorats" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/SageKim1"><img src="https://avatars.githubusercontent.com/SageKim1" width="130px;" alt=""></a></td>
+    
  
 <tr>
     <td align="center"><a href="https://github.com/LB-Brandon"><b>LB-Brandon</b></a></td>
@@ -67,6 +73,8 @@
     <td align="center"><a href="https://github.com/Tril-Lion-Air"><b>Tril-Lion-Air</b></a></td>
     <td align="center"><a href="https://github.com/suin524"><b>suin524</b></a></td>
     <td align="center"><a href="https://github.com/letzgorats"><b>letzgorats</b></a></td>
+    <td align="center"><a href="https://github.com/SageKim1"><b>SageKim1</b></a></td>
+    
     
 </tr>    
   
